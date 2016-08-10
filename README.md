@@ -6,9 +6,9 @@ It takes the notes from an input file and figures out what notes follow each oth
 The program then uses that data to randomly generate a song using the note patterns in the original. The MIDorI also creates an image using the note values of the output file as red, blue, and green values for each pixel. Several parts of the generation process can be tweaked including intstrument, tempo, and song length
 
 ##Libraries needed:
--Python-MIDI: https://github.com/vishnubob/python-midi
--Pygame: http://pygame.org/download.shtml
--Python Image Library: http://effbot.org/downloads#pil
+*Python-MIDI: https://github.com/vishnubob/python-midi  
+*Pygame: http://pygame.org/download.shtml  
+*Python Image Library: http://effbot.org/downloads#pil  
 
 ##Instructions
 
