@@ -26,7 +26,7 @@ as well as an image generated using the notes of the output file
 6. Click the second 'Play' button to listen to the output
 
 
-##OPTIONS
+##Options
 
 * Chain Length: Controls the length of the markov chain, lower values cause the output to be more random, while higher values cause the output to be closer to the input song (Default: 4)
 
