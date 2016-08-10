@@ -11,17 +11,17 @@ Pygame: http://pygame.org/download.shtml
 Python Image Library: http://effbot.org/downloads#pil
 
 Instructions:
-1. Run MIDorI.py
+. Run MIDorI.py
 
-2. Select a .mid file to use as a seed, (Multiple are included with the project)
+. Select a .mid file to use as a seed, (Multiple are included with the project)
     2a. You can play the file using the 'Play' button next to the 'Open' Button
 
-3. Enter a filename to save the generated music as (the extension must be *.mid)
+. Enter a filename to save the generated music as (the extension must be *.mid)
 
-4.Click the generate button to create a MIDI file using the input file as a markov chain seed
+.Click the generate button to create a MIDI file using the input file as a markov chain seed
 as well as an image generated using the notes of the output file
 
-5. Click the second 'Play' button to listen to the output
+. Click the second 'Play' button to listen to the output
 
 
 OPTIONS:
