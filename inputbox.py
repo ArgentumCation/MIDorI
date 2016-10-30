@@ -1,17 +1,3 @@
-# by Timothy Downs, inputbox written for my map editor
-
-# This program needs a little cleaning up
-# It ignores the shift key
-# And, for reasons of my own, this program converts "-" to "_"
-
-# A program to get user input, allowing backspace etc
-# shown in a box in the middle of the screen
-# Called by:
-# import inputbox
-# answer = inputbox.ask(screen, "Your name")
-#
-# Only near the center of the screen is blitted to
-
 import pygame, pygame.font, pygame.event, pygame.draw, string
 from pygame.locals import *
 
