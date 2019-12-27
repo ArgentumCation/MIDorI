@@ -5,12 +5,12 @@ MIDorI is a program that uses Markov Chains to generate music from a seed file.
 It takes the notes from an input file and figures out what notes follow each other.
 The program then uses that data to randomly generate a song using the note patterns in the original. The MIDorI also creates an image using the note values of the output file as red, blue, and green values for each pixel. Several parts of the generation process can be tweaked including intstrument, tempo, and song length
 
-##Libraries needed:
+## Libraries needed:
 * Python-MIDI: https://github.com/vishnubob/python-midi  
 * Pygame: http://pygame.org/download.shtml  
 * Python Image Library: http://effbot.org/downloads#pil  
 
-##Instructions
+## Instructions
 
 1. Run MIDorI.py
 
@@ -26,7 +26,7 @@ as well as an image generated using the notes of the output file
 6. Click the second 'Play' button to listen to the output
 
 
-##Options
+## Options
 
 * Chain Length: Controls the length of the markov chain, lower values cause the output to be more random, while higher values cause the output to be closer to the input song (Default: 4)
 
@@ -37,3 +37,9 @@ as well as an image generated using the notes of the output file
 * Tempo: the tempo of the song (Default: 120)
 
 * Input Track: the track of the input file to sample notes from (Defaults to first non-empty track in the song)
+
+## Screenshots
+
+![](images/img_1.png)
+
+![](images/img_2.png)
